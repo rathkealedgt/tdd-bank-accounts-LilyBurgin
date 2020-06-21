@@ -1,0 +1,35 @@
+C:\Users\lilyb\OneDrive - Trinity Schools\Education\2020\DGT\TDD Bank Accounts\BankAccounts\bin\Debug\BankAccounts.exe.config
+C:\Users\lilyb\OneDrive - Trinity Schools\Education\2020\DGT\TDD Bank Accounts\BankAccounts\bin\Debug\BankAccounts.exe
+C:\Users\lilyb\OneDrive - Trinity Schools\Education\2020\DGT\TDD Bank Accounts\BankAccounts\bin\Debug\BankAccounts.pdb
+C:\Users\lilyb\OneDrive - Trinity Schools\Education\2020\DGT\TDD Bank Accounts\BankAccounts\bin\Debug\BankAccounts.xml
+C:\Users\lilyb\OneDrive - Trinity Schools\Education\2020\DGT\TDD Bank Accounts\BankAccounts\obj\Debug\BankAccounts.vbprojAssemblyReference.cache
+C:\Users\lilyb\OneDrive - Trinity Schools\Education\2020\DGT\TDD Bank Accounts\BankAccounts\obj\Debug\BankAccounts.Resources.resources
+C:\Users\lilyb\OneDrive - Trinity Schools\Education\2020\DGT\TDD Bank Accounts\BankAccounts\obj\Debug\BankAccounts.vbproj.GenerateResource.cache
+C:\Users\lilyb\OneDrive - Trinity Schools\Education\2020\DGT\TDD Bank Accounts\BankAccounts\obj\Debug\BankAccounts.vbproj.CoreCompileInputs.cache
+C:\Users\lilyb\OneDrive - Trinity Schools\Education\2020\DGT\TDD Bank Accounts\BankAccounts\obj\Debug\BankAccounts.exe
+C:\Users\lilyb\OneDrive - Trinity Schools\Education\2020\DGT\TDD Bank Accounts\BankAccounts\obj\Debug\BankAccounts.xml
+C:\Users\lilyb\OneDrive - Trinity Schools\Education\2020\DGT\TDD Bank Accounts\BankAccounts\obj\Debug\BankAccounts.pdb
+C:\Users\lilyb\OneDrive - Trinity Schools\Education\2020\DGT\Applications\Personal GitHub Assignments\TDD Bank Accounts\BankAccounts\bin\Debug\BankAccounts.exe.config
+C:\Users\lilyb\OneDrive - Trinity Schools\Education\2020\DGT\Applications\Personal GitHub Assignments\TDD Bank Accounts\BankAccounts\bin\Debug\BankAccounts.exe
+C:\Users\lilyb\OneDrive - Trinity Schools\Education\2020\DGT\Applications\Personal GitHub Assignments\TDD Bank Accounts\BankAccounts\bin\Debug\BankAccounts.pdb
+C:\Users\lilyb\OneDrive - Trinity Schools\Education\2020\DGT\Applications\Personal GitHub Assignments\TDD Bank Accounts\BankAccounts\bin\Debug\BankAccounts.xml
+C:\Users\lilyb\OneDrive - Trinity Schools\Education\2020\DGT\Applications\Personal GitHub Assignments\TDD Bank Accounts\BankAccounts\obj\Debug\BankAccounts.vbprojAssemblyReference.cache
+C:\Users\lilyb\OneDrive - Trinity Schools\Education\2020\DGT\Applications\Personal GitHub Assignments\TDD Bank Accounts\BankAccounts\obj\Debug\BankAccounts.Resources.resources
+C:\Users\lilyb\OneDrive - Trinity Schools\Education\2020\DGT\Applications\Personal GitHub Assignments\TDD Bank Accounts\BankAccounts\obj\Debug\BankAccounts.vbproj.GenerateResource.cache
+C:\Users\lilyb\OneDrive - Trinity Schools\Education\2020\DGT\Applications\Personal GitHub Assignments\TDD Bank Accounts\BankAccounts\obj\Debug\BankAccounts.vbproj.CoreCompileInputs.cache
+C:\Users\lilyb\OneDrive - Trinity Schools\Education\2020\DGT\Applications\Personal GitHub Assignments\TDD Bank Accounts\BankAccounts\obj\Debug\BankAccounts.exe
+C:\Users\lilyb\OneDrive - Trinity Schools\Education\2020\DGT\Applications\Personal GitHub Assignments\TDD Bank Accounts\BankAccounts\obj\Debug\BankAccounts.xml
+C:\Users\lilyb\OneDrive - Trinity Schools\Education\2020\DGT\Applications\Personal GitHub Assignments\TDD Bank Accounts\BankAccounts\obj\Debug\BankAccounts.pdb
+C:\Users\lilyb\OneDrive - Trinity Schools\Education\2020\DGT\Applications\Personal GitHub Assignments\TDD Bank Accounts\BankAccounts\obj\Debug\BankAccounts.BankAccountsForm.resources
+C:\Users\lee.macri\Downloads\LilyBP\TDD Bank Accounts\BankAccounts\bin\Debug\BankAccounts.exe.config
+C:\Users\lee.macri\Downloads\LilyBP\TDD Bank Accounts\BankAccounts\bin\Debug\BankAccounts.exe
+C:\Users\lee.macri\Downloads\LilyBP\TDD Bank Accounts\BankAccounts\bin\Debug\BankAccounts.pdb
+C:\Users\lee.macri\Downloads\LilyBP\TDD Bank Accounts\BankAccounts\bin\Debug\BankAccounts.xml
+C:\Users\lee.macri\Downloads\LilyBP\TDD Bank Accounts\BankAccounts\obj\Debug\BankAccounts.vbprojAssemblyReference.cache
+C:\Users\lee.macri\Downloads\LilyBP\TDD Bank Accounts\BankAccounts\obj\Debug\BankAccounts.BankAccountsForm.resources
+C:\Users\lee.macri\Downloads\LilyBP\TDD Bank Accounts\BankAccounts\obj\Debug\BankAccounts.Resources.resources
+C:\Users\lee.macri\Downloads\LilyBP\TDD Bank Accounts\BankAccounts\obj\Debug\BankAccounts.vbproj.GenerateResource.cache
+C:\Users\lee.macri\Downloads\LilyBP\TDD Bank Accounts\BankAccounts\obj\Debug\BankAccounts.vbproj.CoreCompileInputs.cache
+C:\Users\lee.macri\Downloads\LilyBP\TDD Bank Accounts\BankAccounts\obj\Debug\BankAccounts.exe
+C:\Users\lee.macri\Downloads\LilyBP\TDD Bank Accounts\BankAccounts\obj\Debug\BankAccounts.xml
+C:\Users\lee.macri\Downloads\LilyBP\TDD Bank Accounts\BankAccounts\obj\Debug\BankAccounts.pdb
